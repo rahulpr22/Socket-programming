@@ -16,8 +16,8 @@ Path for all the three files server,client and datafile should be same.
   FOR SERVER  compiling:  g++ dataclient.cpp -oclient
               execution:  ./client
 
-Then In client Terminal Input either name or phone number and details are sent to server.
-Then server will search for the details in datafile and if match found sends Name and Phone Number back to client and Details will be displayed on client terminal. 
+Then In client Terminal Input either name or phone number .
+Then server will respond by searching for the details in datafile and if match found sends Name and Phone Number back to client and Details will be displayed on client terminal. 
 
 LIMITATIONS
 
